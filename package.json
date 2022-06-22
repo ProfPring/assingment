@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.7",
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "expo-constants": "^8.0.0",
     "install-peers": "^1.0.3",
     "jetifier": "^1.6.5",
